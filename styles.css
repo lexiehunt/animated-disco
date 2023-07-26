@@ -1,14 +1,16 @@
 <!DOCTYPE CSS>
 body {
-  background-color: rgba(255, 99, 71, 0.5);
+  background-color: tomato;
 }
 
 h1 {
   color:black;
   text-align:left;
+  background-color: tomato
 }
 
 p {
   font-family: verdana;
   font-size: 20px;
+  background-color: tomato
 }

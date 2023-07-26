@@ -1,6 +1,6 @@
 <!DOCTYPE CSS>
 body {
-  background-color: tomato;
+  background-color: rgba(255, 99, 71, 0.5);
 }
 
 h1 {
@@ -10,5 +10,5 @@ h1 {
 
 p {
   font-family: verdana;
-  font-size: 40px;
+  font-size: 20px;
 }

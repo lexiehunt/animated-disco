@@ -1,11 +1,11 @@
 <!DOCTYPE CSS>
 body {
-  background-color: pink;
+  background-color:hsla(9, 100%, 64%, 0.5);
 }
 
 h1 {
-  color: black;
-  text-align: center;
+  color:black;
+  text-align:center;
 }
 
 p {
